@@ -1,0 +1,10 @@
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.log
+*.tmp
+*.env
+*.exe
+bin/
+obj/
